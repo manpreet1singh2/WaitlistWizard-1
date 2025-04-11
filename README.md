@@ -74,9 +74,10 @@ npm run start
 
 ## 🌐 Live Demo
 
-🔗 Check out my  project!
-Explore the live website here:
-👉 Visit Website  
+🔗  
+Explore the live website here:  
+👉 [Visit Website](https://de24df92-1c04-4dac-8ccd-115c2543abeb-00-l8djlib2jd2d.riker.replit.dev/)  
+
 _Deployment via GitHub Pages._
 
 ---
