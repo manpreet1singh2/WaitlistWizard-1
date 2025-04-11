@@ -74,7 +74,7 @@ npm run start
 
 ## 🌐 Live Demo
 
-🔗 [Visit Live Site](https://manpreet1singh2.github.io/WaitlistWizard-1/)  
+🔗 [Visit Live Site]([https://manpreet1singh2.github.io/WaitlistWizard-1/](https://de24df92-1c04-4dac-8ccd-115c2543abeb-00-l8djlib2jd2d.riker.replit.dev/))  
 _Deployment via GitHub Pages._
 
 ---
